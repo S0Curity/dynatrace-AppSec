@@ -1,3 +1,6 @@
+### Script base originally created by https://github.com/robinwyss/. Replicated and added additional features.
+
+
 # Python scripts to export useful information using the Dynatrace APIs
 
 ## Prerequisits
